@@ -1,0 +1,3 @@
+void FaruriPornite();
+
+void FaruriOprite();
